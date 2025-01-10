@@ -1,1 +1,2 @@
 # Electric-Vehicle-Population
+For our project, we will utilize a comprehensive dataset provided by the Washington State Department of Licensing to track the electric vehicle population within the state. By leveraging this existing data, we can explore market dominance by specific manufacturers, assess the effectiveness of policies, and provide insights into the continued growth of electric transportation. This project aims to provide actionable insights that can help shape the policies and innovations needed to accelerate the shift towards clean energy vehicles.
