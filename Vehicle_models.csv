@@ -1,0 +1,70 @@
+﻿model_id,model_year,model,CAFV_eligibility,make_id,range_id,electric_type_id
+1,2021,WRANGLER,Not eligible due to low battery range,1,10,1
+2,2021,WRANGLER,Not eligible due to low battery range,1,10,1
+3,2022,WRANGLER,Not eligible due to low battery range,1,8,1
+4,2022,WRANGLER,Not eligible due to low battery range,1,8,1
+5,2022,WRANGLER,Not eligible due to low battery range,1,8,1
+6,2022,WRANGLER,Not eligible due to low battery range,1,8,1
+7,2022,WRANGLER,Not eligible due to low battery range,1,9,1
+8,2022,WRANGLER,Not eligible due to low battery range,1,9,1
+9,2013,FOCUS,Clean Alternative Fuel Vehicle Eligible,2,28,2
+10,2013,FOCUS,Clean Alternative Fuel Vehicle Eligible,2,28,2
+11,2013,FOCUS,Clean Alternative Fuel Vehicle Eligible,2,28,2
+12,2013,FOCUS,Clean Alternative Fuel Vehicle Eligible,2,28,2
+13,2013,C-MAX,Not eligible due to low battery range,2,6,1
+14,2013,C-MAX,Not eligible due to low battery range,2,6,1
+15,2017,C-MAX,Not eligible due to low battery range,2,7,1
+16,2021,ESCAPE,Clean Alternative Fuel Vehicle Eligible,2,19,1
+17,2022,ESCAPE,Clean Alternative Fuel Vehicle Eligible,2,19,1
+18,2022,ESCAPE,Clean Alternative Fuel Vehicle Eligible,2,19,1
+19,2022,ESCAPE,Clean Alternative Fuel Vehicle Eligible,2,19,1
+20,2022,ESCAPE,Clean Alternative Fuel Vehicle Eligible,2,19,1
+21,1999,RANGER,Clean Alternative Fuel Vehicle Eligible,2,27,2
+22,1999,RANGER,Clean Alternative Fuel Vehicle Eligible,2,27,2
+23,1999,RANGER,Clean Alternative Fuel Vehicle Eligible,2,27,2
+24,2000,RANGER,Clean Alternative Fuel Vehicle Eligible,2,23,2
+25,2014,C-MAX,Not eligible due to low battery range,2,6,1
+26,2017,C-MAX,Not eligible due to low battery range,2,7,1
+27,2017,BOLT EV,Clean Alternative Fuel Vehicle Eligible,3,38,2
+28,2012,VOLT,Clean Alternative Fuel Vehicle Eligible,3,17,1
+29,2012,VOLT,Clean Alternative Fuel Vehicle Eligible,3,17,1
+30,2012,VOLT,Clean Alternative Fuel Vehicle Eligible,3,17,1
+31,2016,ELR,Clean Alternative Fuel Vehicle Eligible,4,20,1
+32,2019,PACIFICA,Clean Alternative Fuel Vehicle Eligible,5,15,1
+33,2019,MODEL X,Clean Alternative Fuel Vehicle Eligible,6,39,2
+34,2021,S60,Not eligible due to low battery range,7,9,1
+35,2022,S60,Clean Alternative Fuel Vehicle Eligible,7,21,1
+36,2012,I-MIEV,Clean Alternative Fuel Vehicle Eligible,8,24,2
+37,2019,CROSSTREK,Not eligible due to low battery range,9,5,1
+38,2014,ACCORD,Not eligible due to low battery range,10,3,1
+39,2011,LEAF,Clean Alternative Fuel Vehicle Eligible,11,26,2
+40,2021,PRIUS PRIME,Not eligible due to low battery range,12,10,1
+41,2012,PRIUS PLUG-IN,Not eligible due to low battery range,12,1,1
+42,2017,PRIUS PRIME,Not eligible due to low battery range,12,10,1
+43,2022,NX,Clean Alternative Fuel Vehicle Eligible,13,18,1
+44,2021,RAV4 PRIME,Clean Alternative Fuel Vehicle Eligible,12,22,1
+45,2014,SPARK,Clean Alternative Fuel Vehicle Eligible,3,30,2
+46,2022,TUCSON,Clean Alternative Fuel Vehicle Eligible,14,16,1
+47,2022,SANTA FE,Clean Alternative Fuel Vehicle Eligible,14,14,1
+48,2019,IONIQ,Not eligible due to low battery range,14,13,1
+49,2017,SONATA,Not eligible due to low battery range,14,12,1
+50,2017,OPTIMA,Not eligible due to low battery range,15,13,1
+51,2022,NIRO,Not eligible due to low battery range,15,11,1
+52,2016,SOUL,Clean Alternative Fuel Vehicle Eligible,15,32,2
+53,2021,PS2,Clean Alternative Fuel Vehicle Eligible,16,36,2
+54,2018,CT6,Clean Alternative Fuel Vehicle Eligible,4,14,1
+55,2018,S90,Not eligible due to low battery range,7,8,1
+56,2018,XC60,Not eligible due to low battery range,7,5,1
+57,2020,I-PACE,Clean Alternative Fuel Vehicle Eligible,17,37,2
+58,2020,RANGE ROVER,Not eligible due to low battery range,18,6,1
+59,2020,GLC-CLASS,Not eligible due to low battery range,19,9,1
+60,2022,FLYING SPUR,Not eligible due to low battery range,20,8,1
+61,2021,E-TRON SPORTBACK,Clean Alternative Fuel Vehicle Eligible,21,34,2
+62,2021,E-TRON,Clean Alternative Fuel Vehicle Eligible,21,35,2
+63,2017,740E,Not eligible due to low battery range,22,4,1
+64,2014,I3,Clean Alternative Fuel Vehicle Eligible,22,29,2
+65,2013,FORTWO ELECTRIC DRIVE,Clean Alternative Fuel Vehicle Eligible,23,25,2
+66,2018,COUNTRYMAN,Not eligible due to low battery range,24,2,1
+67,2020,TAYCAN,Clean Alternative Fuel Vehicle Eligible,25,33,2
+68,2015,E-GOLF,Clean Alternative Fuel Vehicle Eligible,26,31,2
+69,2012,KARMA,Clean Alternative Fuel Vehicle Eligible,27,16,1

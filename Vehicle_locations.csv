@@ -1,0 +1,59 @@
+﻿location_id,county,city,state,postal_code,district_id
+1,Spokane,Spokane,WA,99217,1
+2,Benton,Kennewick,WA,99337,2
+3,Spokane,Spokane,WA,99204,3
+4,Walla Walla,Walla Walla,WA,99362,4
+5,King,Issaquah,WA,98029,5
+6,King,Renton,WA,98058,6
+7,Spokane,Spokane,WA,99208,7
+8,King,Sammamish,WA,98075,8
+9,King,Kirkland,WA,98034,9
+10,King,Kent,WA,98032,10
+11,King,Seattle,WA,98118,11
+12,King,Seattle,WA,98133,12
+13,Whitman,Pullman,WA,99163,13
+14,Spokane,Spokane Valley,WA,99206,14
+15,King,Enumclaw,WA,98022,15
+16,Clark,Vancouver,WA,98665,16
+17,Yakima,Yakima,WA,98908,17
+18,King,Burien,WA,98166,18
+19,Clark,Vancouver,WA,98682,19
+20,Pierce,Gig Harbor,WA,98332,20
+21,Pierce,Graham,WA,98338,21
+22,Skagit,Mount Vernon,WA,98274,22
+23,Whatcom,Deming,WA,98244,23
+24,King,Shoreline,WA,98133,24
+25,Whatcom,Bellingham,WA,98226,25
+26,King,Seattle,WA,98119,26
+27,Douglas,East Wenatchee,WA,98802,27
+28,Kittitas,Cle Elum,WA,98922,28
+29,Snohomish,Everett,WA,98208,29
+30,Pierce,Dupont,WA,98327,11
+31,Pierce,Lakewood,WA,98499,30
+32,Clark,Brush Prairie,WA,98606,31
+33,Thurston,Yelm,WA,98597,32
+34,King,Kirkland,WA,98033,33
+35,King,Seattle,WA,98105,34
+36,Benton,Kennewick,WA,99338,2
+37,King,Seattle,WA,98178,35
+38,San Juan,Friday Harbor,WA,98250,25
+39,King,Bellevue,WA,98006,8
+40,King,Shoreline,WA,98155,24
+41,Kitsap,Poulsbo,WA,98370,36
+42,King,Carnation,WA,98014,5
+43,Snohomish,Lynnwood,WA,98087,37
+44,King,Bellevue,WA,98007,33
+45,Clallam,Port Angeles,WA,98362,41
+46,King,Issaquah,WA,98027,8
+47,Pierce,University Place,WA,98467,11
+48,Spokane,Spokane,WA,99203,3
+49,Snohomish,Edmonds,WA,98020,37
+50,King,Ravensdale,WA,98051,5
+51,King,Sammamish,WA,98029,5
+52,Yakima,Yakima,WA,98901,38
+53,Kitsap,Bainbridge Island,WA,98110,36
+54,Spokane,Spokane,WA,99224,1
+55,King,Kent,WA,98042,39
+56,Spokane,Spokane,WA,99218,7
+57,King,Fall City,WA,98024,5
+58,Mason,Belfair,WA,98528,40
